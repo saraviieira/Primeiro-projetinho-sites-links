@@ -12,5 +12,5 @@ Página simples de links criada para praticar estrutura HTML, organização de a
 ## 🚀 Status do projeto
 Projeto de estudo finalizado (primeira versão).
 
-## ✨ Autora
+## ✨ Desenvolvedora em formação
 Sara Vieira
